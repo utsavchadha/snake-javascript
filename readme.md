@@ -18,3 +18,5 @@ Next steps would be:
 2. Add a pacing mechanism so that the snake speeds up as the score increases.
 3. Add an overlay for the instruction prompts at the start and end of the game. Overlaid prompts are much more intuitive for the user.
 4. Add animations and a high score counter to make the game more engaging.
+
+( the next steps were informed through my own observations and a few user tests that I conducted )
